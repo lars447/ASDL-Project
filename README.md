@@ -42,4 +42,5 @@ Train.py takes 2 arguments:
   the time it takes to run Predict.py depends on the number of samples provided as input in the directory specified by --source.
 
   ## Data Format
-  The format of the data the tool expects can be seen in [report.pdf](https://github.com/lars447/ASDL-Project/blob/master/report.pdf)
+  The format of the data the tool expects can be seen in [report.pdf](https://github.com/lars447/ASDL-Project/blob/master/report.pdf).
+  The data used for working on this project can be found on the [course page](https://software-lab.org/teaching/summer2021/asdl/).
